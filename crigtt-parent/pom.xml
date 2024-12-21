@@ -411,7 +411,7 @@
             <dependency>
                 <groupId>org.logback-extensions</groupId>
                 <artifactId>logback-ext-spring</artifactId>
-                <version>0.1.4</version>
+                <version>0.1.5</version>
             </dependency>
 
 
